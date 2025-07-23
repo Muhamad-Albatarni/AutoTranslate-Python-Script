@@ -1,0 +1,3 @@
+Hello! This is a sample text to demonstrate the AutoTranslate Python script.
+It will automatically translate this text into the language you choose.
+Have fun with your translation automation!
