@@ -4,23 +4,23 @@ Automate your translation tasks effortlessly with this simple Python script usin
 
 ---
 
-## Features
+## ✨ Features
 
 - Translate plain text files to any language supported by Google Translate  
 - Easy-to-use command-line interface  
 - No API key required — completely free to use  
-- Supports UTF-8 encoded files
+- Supports UTF-8 encoded input/output files
 
 ---
 
-## Requirements
+## 🧰 Requirements
 
 - Python 3.6 or higher  
-- `googletrans` library (version 4.0.0-rc1)
+- `googletrans` library (version `4.0.0-rc1`)
 
 ---
 
-## Installation
+## 📦 Installation
 
 Install the required Python package by running:
 
